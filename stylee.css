@@ -1,8 +1,9 @@
 body{
-    background-image: url(img/screen.png);
+background-image: url(img/two.png);
 background-repeat: no-repeat;
 background-size: 100%;
 }
+
 
 header ul{
     list-style:none;
@@ -25,29 +26,30 @@ margin: 0px 90px;
 
 }
 
+.picw{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+margin-top: 150px;
+font-family:Arial, Helvetica, sans-serif;
+border:3px solid black;
+font: size 36px;
+}
 
 
 .h1{
 text-align: center;
-margin-top: 350px;
 font-family:Arial, Helvetica, sans-serif;
-font-size: 128px;
+font-size: 80px;
+margin-top: 100px;
 }
-.container{
-    display: flex;
-    
+.image{
+
+width: 433px; 
+height: 644px;
+
 }
-.nav{
-    display: flex;
-    justify-content: flex-end;
+.icon{
+    width: 168px;
+    height: 173px; ;
 }
-
-
-
-
-
-  
-
-
- 
-
