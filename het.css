@@ -1,0 +1,62 @@
+body{
+    background-image: url(img/two.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    }
+    
+    
+    header ul{
+        list-style:none;
+        border: 2px solid black;
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    header li{
+        display: inline;
+        margin: 0px 40px;
+        
+    }
+    
+    header a{
+    text-decoration:none;
+    color:black;
+    margin: 0px 90px;
+    
+    }
+    
+    .picw{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    margin-top: 150px;
+    font-family:Arial, Helvetica, sans-serif;
+    border:3px solid black;
+    font: size 36px;
+    }
+    
+    
+    .h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    margin-top: 100px;
+    }
+    .image{
+    
+    width: 575px; 
+    height: 615px;
+    
+    }
+    
+
+    h2.{
+
+        text-align: center;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 80px;
+        color: cornflowerblue;
+        margin-top: 100px; 
+
+    }
