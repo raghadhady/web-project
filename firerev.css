@@ -1,0 +1,64 @@
+@font-face {
+    font-family: blackgold;
+    src: url(Blackgold-qGAl.otf);
+}
+body{
+    background-image: url(img/two.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: blackgold;
+    }
+    
+    
+    header ul{
+        list-style:none;
+        border: 2px solid black;
+        display: flex;
+        justify-content: flex-end;
+        margin-right: 40px;
+        margin-left: 40px;
+    }
+    header li{
+        display: inline;
+        margin: 0px 40px;
+        
+    }
+    
+    header a{
+    text-decoration:none;
+    color:black;
+    margin: 0px 90px;
+    }
+
+    .h1{
+        font-size: 86px;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+   
+   .container{
+    width: 942px;
+    height: 529px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:50px ;
+}
+
+.caras{
+    display: flex;
+    gap: 5px;
+    height: 107px;
+    justify-content: center;
+}
+
+.P{
+    text-align: right;
+    margin-right: 200px;
+    margin-top: 10px;
+   
+}
+
+
+
