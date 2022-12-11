@@ -83,10 +83,11 @@ height: 644px;
 
 .container{
   
-    border: 1px solid yellow;
+    
 
     font-family: blackgold;
-    margin-left: 40px;
+    margin-left: 100px;
+    margin-right: 40px;
 }
 
 .container:hover{
